@@ -1,0 +1,122 @@
+2026-04-18 01:21:30+0200: sUsingService=false
+2026-04-18 01:21:30+0200: sUpdateSilently=false
+2026-04-18 01:21:30+0200: useService=false
+2026-04-18 01:21:30+0200: isElevated=false
+2026-04-18 01:21:30+0200: gInvocation=UpdaterInvocation::First
+2026-04-18 01:21:30+0200: Writing status to file: applying
+2026-04-18 01:21:30+0200: PATCH DIRECTORY C:\Projects\Temp\Tor Browser\Browser\TorBrowser\UpdateInfo\updates\0
+2026-04-18 01:21:30+0200: INSTALLATION DIRECTORY C:\Projects\Temp\Tor Browser\Browser
+2026-04-18 01:21:30+0200: WORKING DIRECTORY C:\Projects\Temp\Tor Browser\Browser
+2026-04-18 01:21:30+0200: Checking whether elevation is needed
+2026-04-18 01:21:30+0200: Successfully opened lock file
+2026-04-18 01:21:30+0200: Going to update via this updater instance.
+2026-04-18 01:21:30+0200: UPDATE TYPE partial
+2026-04-18 01:21:30+0200: PREPARE PATCH xul.dll
+2026-04-18 01:21:31+0200: PREPARE PATCH updater.exe
+2026-04-18 01:21:31+0200: PREPARE PATCH tbb_version.json
+2026-04-18 01:21:31+0200: PREPARE PATCH softokn3.dll
+2026-04-18 01:21:31+0200: PREPARE ADD removed-files
+2026-04-18 01:21:31+0200: PREPARE ADD precomplete
+2026-04-18 01:21:31+0200: PREPARE PATCH plugin-container.exe
+2026-04-18 01:21:31+0200: PREPARE PATCH platform.ini
+2026-04-18 01:21:31+0200: PREPARE PATCH omni.ja
+2026-04-18 01:21:31+0200: PREPARE PATCH nss3.dll
+2026-04-18 01:21:31+0200: PREPARE PATCH nmhproxy.exe
+2026-04-18 01:21:31+0200: PREPARE PATCH mozglue.dll
+2026-04-18 01:21:31+0200: PREPARE PATCH mozavutil.dll
+2026-04-18 01:21:31+0200: PREPARE PATCH mozavcodec.dll
+2026-04-18 01:21:31+0200: PREPARE PATCH libGLESv2.dll
+2026-04-18 01:21:31+0200: PREPARE PATCH libEGL.dll
+2026-04-18 01:21:31+0200: PREPARE PATCH lgpllibs.dll
+2026-04-18 01:21:31+0200: PREPARE PATCH gkcodecs.dll
+2026-04-18 01:21:31+0200: PREPARE PATCH freebl3.dll
+2026-04-18 01:21:31+0200: PREPARE PATCH firefox.exe
+2026-04-18 01:21:31+0200: PREPARE PATCH distribution/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+2026-04-18 01:21:31+0200: PREPARE PATCH browser/omni.ja
+2026-04-18 01:21:31+0200: PREPARE PATCH application.ini
+2026-04-18 01:21:31+0200: PREPARE PATCH TorBrowser/Tor/tor.exe
+2026-04-18 01:21:31+0200: PREPARE PATCH TorBrowser/Tor/PluggableTransports/lyrebird.exe
+2026-04-18 01:21:31+0200: PREPARE PATCH TorBrowser/Tor/PluggableTransports/conjure-client.exe
+2026-04-18 01:21:31+0200: PREPARE PATCH TorBrowser/Docs/ChangeLog.txt
+2026-04-18 01:21:31+0200: PREPARE PATCH TorBrowser/Data/Tor/geoip6
+2026-04-18 01:21:31+0200: PREPARE PATCH TorBrowser/Data/Tor/geoip
+2026-04-18 01:21:31+0200: PREPARE ADD TorBrowser/Data/Browser/profile.default/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+2026-04-18 01:21:31+0200: PREPARE PATCH AccessibleMarshal.dll
+2026-04-18 01:21:31+0200: EXECUTE PATCH xul.dll
+2026-04-18 01:21:32+0200: EXECUTE PATCH updater.exe
+2026-04-18 01:21:32+0200: EXECUTE PATCH tbb_version.json
+2026-04-18 01:21:32+0200: EXECUTE PATCH softokn3.dll
+2026-04-18 01:21:32+0200: EXECUTE ADD removed-files
+2026-04-18 01:21:32+0200: EXECUTE ADD precomplete
+2026-04-18 01:21:32+0200: EXECUTE PATCH plugin-container.exe
+2026-04-18 01:21:32+0200: EXECUTE PATCH platform.ini
+2026-04-18 01:21:32+0200: EXECUTE PATCH omni.ja
+2026-04-18 01:21:32+0200: EXECUTE PATCH nss3.dll
+2026-04-18 01:21:32+0200: EXECUTE PATCH nmhproxy.exe
+2026-04-18 01:21:32+0200: EXECUTE PATCH mozglue.dll
+2026-04-18 01:21:32+0200: EXECUTE PATCH mozavutil.dll
+2026-04-18 01:21:32+0200: EXECUTE PATCH mozavcodec.dll
+2026-04-18 01:21:33+0200: EXECUTE PATCH libGLESv2.dll
+2026-04-18 01:21:33+0200: EXECUTE PATCH libEGL.dll
+2026-04-18 01:21:33+0200: EXECUTE PATCH lgpllibs.dll
+2026-04-18 01:21:33+0200: EXECUTE PATCH gkcodecs.dll
+2026-04-18 01:21:33+0200: EXECUTE PATCH freebl3.dll
+2026-04-18 01:21:33+0200: EXECUTE PATCH firefox.exe
+2026-04-18 01:21:33+0200: EXECUTE PATCH distribution/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+2026-04-18 01:21:33+0200: EXECUTE PATCH browser/omni.ja
+2026-04-18 01:21:33+0200: EXECUTE PATCH application.ini
+2026-04-18 01:21:33+0200: EXECUTE PATCH TorBrowser/Tor/tor.exe
+2026-04-18 01:21:33+0200: EXECUTE PATCH TorBrowser/Tor/PluggableTransports/lyrebird.exe
+2026-04-18 01:21:33+0200: EXECUTE PATCH TorBrowser/Tor/PluggableTransports/conjure-client.exe
+2026-04-18 01:21:33+0200: EXECUTE PATCH TorBrowser/Docs/ChangeLog.txt
+2026-04-18 01:21:33+0200: EXECUTE PATCH TorBrowser/Data/Tor/geoip6
+2026-04-18 01:21:33+0200: EXECUTE PATCH TorBrowser/Data/Tor/geoip
+2026-04-18 01:21:33+0200: EXECUTE ADD TorBrowser/Data/Browser/profile.default/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+2026-04-18 01:21:33+0200: EXECUTE PATCH AccessibleMarshal.dll
+2026-04-18 01:21:33+0200: FINISH PATCH xul.dll
+2026-04-18 01:21:33+0200: FINISH PATCH updater.exe
+2026-04-18 01:21:33+0200: ensure_remove: failed to remove file: C:\Projects\Temp\Tor Browser\Browser/updater.exe.moz-backup, rv: -1, err: 13
+2026-04-18 01:21:33+0200: backup_discard: unable to remove: updater.exe.moz-backup
+2026-04-18 01:21:33+0200: FINISH PATCH tbb_version.json
+2026-04-18 01:21:33+0200: FINISH PATCH softokn3.dll
+2026-04-18 01:21:33+0200: ensure_remove: failed to remove file: C:\Projects\Temp\Tor Browser\Browser/softokn3.dll.moz-backup, rv: -1, err: 13
+2026-04-18 01:21:33+0200: backup_discard: unable to remove: softokn3.dll.moz-backup
+2026-04-18 01:21:33+0200: FINISH ADD removed-files
+2026-04-18 01:21:33+0200: FINISH ADD precomplete
+2026-04-18 01:21:33+0200: FINISH PATCH plugin-container.exe
+2026-04-18 01:21:33+0200: FINISH PATCH platform.ini
+2026-04-18 01:21:33+0200: FINISH PATCH omni.ja
+2026-04-18 01:21:33+0200: FINISH PATCH nss3.dll
+2026-04-18 01:21:33+0200: ensure_remove: failed to remove file: C:\Projects\Temp\Tor Browser\Browser/nss3.dll.moz-backup, rv: -1, err: 13
+2026-04-18 01:21:33+0200: backup_discard: unable to remove: nss3.dll.moz-backup
+2026-04-18 01:21:33+0200: FINISH PATCH nmhproxy.exe
+2026-04-18 01:21:33+0200: FINISH PATCH mozglue.dll
+2026-04-18 01:21:33+0200: ensure_remove: failed to remove file: C:\Projects\Temp\Tor Browser\Browser/mozglue.dll.moz-backup, rv: -1, err: 13
+2026-04-18 01:21:33+0200: backup_discard: unable to remove: mozglue.dll.moz-backup
+2026-04-18 01:21:33+0200: FINISH PATCH mozavutil.dll
+2026-04-18 01:21:33+0200: FINISH PATCH mozavcodec.dll
+2026-04-18 01:21:33+0200: FINISH PATCH libGLESv2.dll
+2026-04-18 01:21:33+0200: FINISH PATCH libEGL.dll
+2026-04-18 01:21:33+0200: FINISH PATCH lgpllibs.dll
+2026-04-18 01:21:33+0200: FINISH PATCH gkcodecs.dll
+2026-04-18 01:21:33+0200: FINISH PATCH freebl3.dll
+2026-04-18 01:21:33+0200: ensure_remove: failed to remove file: C:\Projects\Temp\Tor Browser\Browser/freebl3.dll.moz-backup, rv: -1, err: 13
+2026-04-18 01:21:33+0200: backup_discard: unable to remove: freebl3.dll.moz-backup
+2026-04-18 01:21:33+0200: FINISH PATCH firefox.exe
+2026-04-18 01:21:33+0200: FINISH PATCH distribution/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+2026-04-18 01:21:33+0200: FINISH PATCH browser/omni.ja
+2026-04-18 01:21:33+0200: FINISH PATCH application.ini
+2026-04-18 01:21:33+0200: FINISH PATCH TorBrowser/Tor/tor.exe
+2026-04-18 01:21:33+0200: FINISH PATCH TorBrowser/Tor/PluggableTransports/lyrebird.exe
+2026-04-18 01:21:33+0200: FINISH PATCH TorBrowser/Tor/PluggableTransports/conjure-client.exe
+2026-04-18 01:21:33+0200: FINISH PATCH TorBrowser/Docs/ChangeLog.txt
+2026-04-18 01:21:33+0200: FINISH PATCH TorBrowser/Data/Tor/geoip6
+2026-04-18 01:21:33+0200: FINISH PATCH TorBrowser/Data/Tor/geoip
+2026-04-18 01:21:33+0200: FINISH ADD TorBrowser/Data/Browser/profile.default/extensions/{73a6fe31-595d-460b-a920-fcc0f8843232}.xpi
+2026-04-18 01:21:33+0200: FINISH PATCH AccessibleMarshal.dll
+2026-04-18 01:21:34+0200: succeeded
+2026-04-18 01:21:34+0200: Writing status to file: succeeded
+
+2026-04-18 01:21:34+0200: calling QuitProgressUI
+2026-04-18 01:21:34+0200: NS_main: unable to remove directory: tobedeleted, err: 41
+2026-04-18 01:21:34+0200: Running LaunchCallbackAndPostProcessApps

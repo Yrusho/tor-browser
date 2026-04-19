@@ -1,0 +1,14 @@
+1. Server/Network settings:
+   - Hostname: blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion
+   - Port: 6667
+2. Proxy/SOCKS settings:
+   - Proxy type: SOCKS5
+   - Host: 127.0.0.1
+   - Port: 9050
+Example for WeeChat:
+/set irc.server.example.proxy "socks5://127.0.0.1:9050"
+/connect blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion/6667
+Example for HexChat:
+- Go to Settings → Preferences → Network → Proxy
+- Set type to SOCKS5, host 127.0.0.1, port 9050
+- Then connect to the .onion address

@@ -1,0 +1,34 @@
+
+dkforest I2P address
+Jan 20, 2023
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+After 3 days of computing hashes, we finally have a new i2p address
+for dkforest.
+
+Hashes calculated: 552,093,130,902
+
+http://dkforest4gwaceahf4te3vs7ycddtbpf2lucocxdzhphezikdgnq.b32.i2p
+
+n0tr1v
+Jan 20, 2023
+-----BEGIN PGP SIGNATURE-----
+
+iQJKBAEBCgA0FiEE3S3HW3iM8WGcvoEDCGw7Mt+VsJEFAmPKagcWHG4wdHIxdkBw
+cm90b25tYWlsLmNvbQAKCRAIbDsy35WwkVuxD/9IGxqUKRJdMsjZbC8j40ouxWI8
+i/ATgomMmOWrlhfuMH/bdEjkJDWblOsfaUTcNn3CaCk+uy+rPAZGt3ubdfczaAUJ
+ASBnG+vWJ4pbVcdVQfYYoJttAy4U2a5l12BOSq/XWb0IpCak/UfN1MZVWXhL7fBX
+09lGZFErBJlC1nL/kT8mDryhUc/S8+lSs/DMzllnTpPN7zCCXejjM512EUY9MSm+
+oQEeMde5N8UPcqxmvuZCY7PfE4l3IaNt16JklB3EW1Pg3w+6XGYheAm0/RQIU50x
+WH53cmSMLj1wYwhNZTjNw3Y+efDMS7cg6ysJxtLpswInusUyXh68QIaNeIsp9P8g
+1HDg2SIO/J/Gdr4puIG2iQpoRKukKC86/hCZdDHnYvVj0gam/Qxj4OoIFf/QBeLd
+BVkF+lRn5cqoLhaIE7a1hrZz3oqUH985qnQlOIkZGkTwD7x1IK8nwUaSPwowH8Xb
+ANw+KwOdonrXFYxLxWpEOfY2osLa48xzSfmm3f43gksMBp6P95U5rsP42sngtloo
+LpXqkFWor6NGq+hiux4PByd44CrbMxyI6xVcyYLgB887fIIsQQo/4658ERW/gNf8
+9k1SUqjSfModAJEdFDCw50huzQTq695hTzv1dyrL46D2HojHNeaxZyLSspbofwDy
+xGEMR4k6rKfv0/Bosg==
+=uy+X
+-----END PGP SIGNATURE-----
+
