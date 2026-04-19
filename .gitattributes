@@ -1,0 +1,14 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.sqlite filter=lfs diff=lfs merge=lfs -text
+Browser/d3dcompiler_47.dll filter=lfs diff=lfs merge=lfs -text
+Browser/freebl3.dll filter=lfs diff=lfs merge=lfs -text
+Browser/gkcodecs.dll filter=lfs diff=lfs merge=lfs -text
+Browser/lgpllibs.dll filter=lfs diff=lfs merge=lfs -text
+Browser/libEGL.dll filter=lfs diff=lfs merge=lfs -text
+Browser/libGLESv2.dll filter=lfs diff=lfs merge=lfs -text
+Browser/mozavcodec.dll filter=lfs diff=lfs merge=lfs -text
+Browser/mozavutil.dll filter=lfs diff=lfs merge=lfs -text
+Browser/mozglue.dll filter=lfs diff=lfs merge=lfs -text
+Browser/nss3.dll filter=lfs diff=lfs merge=lfs -text
+Browser/softokn3.dll filter=lfs diff=lfs merge=lfs -text
